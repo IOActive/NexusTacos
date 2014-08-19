@@ -1,7 +1,7 @@
 snmpvlan
-CVE ID: CVE-2014-3341.
+CVE ID: CVE-2014-3341
 
-Cisco Bug ID: CSCup85616.
+Cisco Bug ID: CSCup85616
 
 Strings.txt Taken from https://fuzzdb.googlecode.com/svn-history/r127/trunk/wordlists-misc/wordlist-common-snmp-community-strings.txt
 
