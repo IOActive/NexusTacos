@@ -1,4 +1,3 @@
-snmpvlan
 CVE ID: CVE-2014-3341
 
 Cisco Bug ID: CSCup85616
