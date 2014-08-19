@@ -2,6 +2,9 @@ CVE ID: CVE-2014-3341
 
 Cisco Bug ID: CSCup85616
 
+Ref: http://tools.cisco.com/security/center/viewAlert.x?alertId=35338
+     
+
 Strings.txt Taken from https://fuzzdb.googlecode.com/svn-history/r127/trunk/wordlists-misc/wordlist-common-snmp-community-strings.txt
 
 NexusTaco is a snmp scanner that can be used both for internal testing and external testing to assess Cisco Nexus switches ( 5000 and 6000 family).
